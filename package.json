@@ -1,0 +1,12 @@
+{
+  "name": "mastercomfig-api",
+  "version": "1.0.0",
+  "description": "An API for interacting with the mastercomfig services.",
+  "main": "index.js",
+  "repository": "https://github.com/mastercoms/mastercomfig-api",
+  "author": "mastercoms",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
