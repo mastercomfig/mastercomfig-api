@@ -1,2 +1,2 @@
 # mastercomfig-api
-simple remote config API for the mastercomfig app
+Simple remote config API for the deprecated mastercomfig 7 app.
